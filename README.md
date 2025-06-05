@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/RohitSinghee228/Profile-data/blob/main/Mind%20Map%20Brainstorm%20(1).png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Rohit Singhee</h1>
-<h3 align="center">An AI, ML, Data Science Enthusiast from India</h3>
+<h3 align="center">An AI, ML, Data Science Enthusiast | BITSian | SDE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsinghee228&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsinghee228" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision Projects**
 
-- 🤝 I’m looking for help with **Paper Keyboard**
+- 🤝 I’m looking for help with **LLM Applications*
 
 - 📫 How to reach me **rohitsinghee@gmail.com**
 
